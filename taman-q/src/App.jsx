@@ -1,8 +1,8 @@
 import DashboardPage from "./pages/Dashboard"
-import IntroductionPage from "./pages/introduction"
-import PlantDatabasePage from "./pages/plantDatabase"
-import PlantDatabaseDetailPage from "./pages/plantDatabaseDetail"
-import QuickStartGuidePage from "./pages/quickStartGuide"
+import IntroductionPage from "./pages/Introduction"
+import PlantDatabasePage from "./pages/PlantDatabase"
+import PlantDatabaseDetailPage from "./pages/PlantDatabaseDetail"
+import QuickStartGuidePage from "./pages/QuickStartGuide"
 import { createBrowserRouter, RouterProvider } from 'react-router'
 
 function App() {
