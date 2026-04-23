@@ -3,7 +3,7 @@
 A website for those interested in starting their own hydroponic garden and learn more about the types of plants they can grow.
 
 ## Live Demo
---TBA--
+https://taman-q.vercel.app/
 
 ## Tech Stack
 - Lucide React
